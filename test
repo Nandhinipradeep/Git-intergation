@@ -4,3 +4,5 @@ echo "Hello, Git!"
 echo "Welcome to Jenkins."
 echo "Next is webhook? is it"
 echo "Welcome to new chapter"
+date
+
